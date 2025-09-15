@@ -45,6 +45,7 @@ If you use Home Assistant Yellow with a Raspberry Pi Compute Module 4, follow th
       - The green and the yellow LEDs start blinking.
       - The [Home Assistant Operating System](https://www.home-assistant.io/docs/glossary/#home-assistant-operating-system) now downloads the latest version of [Home Assistant Supervisor](https://www.home-assistant.io/docs/glossary/#home-assistant-supervisor) and [Home Assistant Core](https://www.home-assistant.io/docs/glossary/#home-assistant-core).
       - Due to the downloads, it can take a while until Home Assistant becomes accessible again.
+      - When the downloads are complete, the red light will be on and the green and yellow lights will be off.
 
 ## Related topics
 
