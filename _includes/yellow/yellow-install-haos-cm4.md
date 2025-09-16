@@ -104,7 +104,7 @@
 {% image "/static/img/yellow/led-pattern-install-blink-fast.webp" "Clip showing the LED pattern with the yellow LED blinking fast" %}
 {% stepContent %}
 
-- During installation, the LED will blink fast.
+- During installation, the yellow LED will blink fast.
 - Wait for Home Assistant Yellow to finish installing the Home Assistant Operating System.
 - Once the installer finishes installing the Home Assistant Operating System, only the red LED will be on.
 
